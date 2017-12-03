@@ -1,0 +1,6 @@
+D:\ProgectsVisualStudio\TermostatHometask\TermostatHometask\bin\Debug\TermostatHometask.exe.config
+D:\ProgectsVisualStudio\TermostatHometask\TermostatHometask\bin\Debug\TermostatHometask.exe
+D:\ProgectsVisualStudio\TermostatHometask\TermostatHometask\bin\Debug\TermostatHometask.pdb
+D:\ProgectsVisualStudio\TermostatHometask\TermostatHometask\obj\Debug\TermostatHometask.csproj.CoreCompileInputs.cache
+D:\ProgectsVisualStudio\TermostatHometask\TermostatHometask\obj\Debug\TermostatHometask.exe
+D:\ProgectsVisualStudio\TermostatHometask\TermostatHometask\obj\Debug\TermostatHometask.pdb
